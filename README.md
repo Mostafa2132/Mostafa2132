@@ -2,7 +2,7 @@
 <h3 align="center">🚀 React Front-End Developer | Tailwind Enthusiast | UI Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Building+Modern+UIs+with+React;Loving+Tailwind%2C+Vite+%26+JS;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color='pink'&center=true&vCenter=true&width=435&lines=Building+Modern+UIs+with+React;Loving+Tailwind%2C+Vite+%26+JS;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
