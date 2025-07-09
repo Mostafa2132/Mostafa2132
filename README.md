@@ -1,77 +1,63 @@
-<h1 align="center">Hi 👋, I'm Mostafa M.Ebrahem</h1>
-<h3 align="center">Front - End (React.js)</h3>
+<h1 align="center">Hi 👋, I'm Mostafa Mohamed</h1>
+<h3 align="center">🚀 Front-End Developer | React & Tailwind Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa2132&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa2132" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa2132" alt="mostafa2132" /></a> </p>
+### 👨‍💻 About Me
 
-<p align="left"> <a href="https://twitter.com/mostafa7302433" target="blank"><img src="https://img.shields.io/twitter/follow/mostafa7302433?logo=twitter&style=for-the-badge" alt="mostafa7302433" /></a> </p>
+- 💼 I specialize in building responsive & performant websites using **React.js**, **Tailwind CSS**, and modern JS practices.
+- 🧠 Currently learning: **Next.js**, **Stripe Integration**, **Framer Motion**
+- 🌍 Building fast, clean, and animated user experiences.
 
-- 🌱 I’m currently learning **Next.js , TS**
+---
 
-- 💬 Ask me about **react.js , JS , tailwindcss , bootstrap**
+### 💡 Tech Stack & Tools
 
-- 📫 How to reach me **12m0stafa7@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/qc6e367bua](https://flowcv.com/resume/qc6e367bua)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mostafa7302433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafa7302433" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mostafa ebrahem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa ebrahem" height="30" width="40" /></a>
-<a href="https://fb.com/mostafa ebrahem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa ebrahem" height="30" width="40" /></a>
-</p>
-
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vite,figma" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vite,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafa2132&show_icons=true&theme=tokyonight)
-
----
-
-### 🧩 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa2132&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa2132&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa2132&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🍔 FastEat – Food Delivery Web App
-- Built with: React, Tailwind, Framer Motion
-- [🔗 Live Demo](https://fast-eat-nine.vercel.app/) | [📦 GitHub Repo](https://github.com/Mostafa2132/FastEat)
-
-![FastEat Screenshot](https://your-image-link-here.png)
-
----
-
-#### 👕 Frech Cart – E-commerce Store
-- Built with: React, LocalStorage, Swiper
-- [🔗 Live Demo](https://your-demo-link) | [📦 GitHub](https://github.com/Mostafa2132/...)
+#### 🍔 FastEat – Food Delivery App
+- **Stack**: React, Tailwind, Framer Motion, LocalStorage
+- 🔗 [Live Demo](https://fast-eat-nine.vercel.app/)
+- 📦 [GitHub Repo](https://github.com/Mostafa2132/FastEat)
+- ![FastEat Demo](https://media.giphy.com/media/XaWnG8O6yBc0OBZQzT/giphy.gif)
 
 ---
 
-### 📷 Gallery (Screenshots / GIFs)
-
-<!-- You can host your screenshots on GitHub Issues or Imgur and paste the links here -->
+#### 🛒 French Cart – E-commerce Store
+- **Stack**: React, Swiper, LocalStorage
+- 🔗 Live Demo: *Coming Soon*
+- 📦 [GitHub Repo](https://github.com/Mostafa2132/Frech-Cart)
+- ![Cart Demo](https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)
 
 ---
 
-### 📫 Let's Connect
+### 📷 UI/UX in Action (Examples)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2132&show_icons=true&locale=en&layout=compact" alt="mostafa2132" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa2132&show_icons=true&locale=en" alt="mostafa2132" /></p>
+### 📫 Contact Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa2132&" alt="mostafa2132" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mostafamohamed2132@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
