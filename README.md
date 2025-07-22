@@ -15,10 +15,9 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently building **FastEat** – a responsive food delivery web app.
-- 🎯 Passionate about **React.js**, **Tailwind CSS**, and smooth user experiences.
-- 📚 Currently learning: **Next.js**, **Framer Motion**, **Stripe Checkout**
-- 🌐 Check out my live projects and GitHub repos below.
+🎓 I'm a passionate **Front-End Developer** with a focus on **React.js**, **Tailwind CSS**, and creating fast, responsive, and beautiful UIs.  
+💡 I enjoy turning complex problems into clean, elegant solutions and bringing static designs to life with animation and interactivity.  
+🚀 Always learning new tools & technologies — currently exploring **Next.js**, **Framer Motion**, and **Stripe integration**.  
 
 ---
 
@@ -35,18 +34,26 @@
 
 ### 🚀 Featured Projects
 
-#### 🍔 FastEat – Food Delivery App
-- **Stack:** React, Tailwind, LocalStorage, Framer Motion
-- **Live:** [fast-eat-nine.vercel.app](https://fast-eat-nine.vercel.app)
-- **Code:** [GitHub Repo](https://github.com/Mostafa2132/FastEat)
+#### 🍟 FRUDBAZ – Fast Food Website  
+- **Stack:** React, Tailwind, Framer Motion, React Router  
+- **Live:** [frudbaz-res-hn5d.vercel.app](https://frudbaz-res-hn5d.vercel.app)  
+- **Code:** [GitHub Repo](https://github.com/Mostafa2132/FRUDBAZ_res)  
+- <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%" />
+
+---
+
+#### 🍔 FastEat – Food Delivery App  
+- **Stack:** React, Tailwind, LocalStorage, Framer Motion  
+- **Live:** [fast-eat-nine.vercel.app](https://fast-eat-nine.vercel.app)  
+- **Code:** [GitHub Repo](https://github.com/Mostafa2132/FastEat)  
 - <img src="https://media.giphy.com/media/XaWnG8O6yBc0OBZQzT/giphy.gif" width="100%" />
 
 ---
 
-#### 🛍️ Frech Cart – E-commerce App
-- **Stack:** React, Swiper.js, LocalStorage
-- **Live:** *Coming Soon*
-- **Code:** [GitHub Repo](https://github.com/Mostafa2132/Frech-Cart)
+#### 🛍️ Frech Cart – E-commerce App  
+- **Stack:** React, Swiper.js, LocalStorage  
+- **Live:** *Coming Soon*  
+- **Code:** [GitHub Repo](https://github.com/Mostafa2132/Frech-Cart)  
 - <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
 
 ---
@@ -70,6 +77,8 @@
   <img src="https://img.shields.io/github/followers/Mostafa2132?label=Follow&style=social" alt="Followers" />
 </p>
 
+📌 If you like my work, don't forget to ⭐️ my repos and follow me for more!
+
 ---
 
 ### 🪄 Fun Zone
@@ -87,8 +96,8 @@
 
 <p align="center">
   <a href="mailto:mostafamohamed2132@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINK-HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mostafa2132/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://frudbaz-res-hn5d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
